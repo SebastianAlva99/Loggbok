@@ -11,3 +11,6 @@ Den här vecka började med grupparbete, Anders dela oss i grupp av 4 personer, 
 
 Loggbok - vecka 12
 Den hör vecka har vi börjar med design i webbsidan vi har nått en överenskommelse av hur starsida ska se ut och hur kommer produkter sidan ska se också, vi har börjat att bilda webbsidan desig i figma mer komplexa inte bara skissa, och vi har också börja att skpa design för vårat förpakningar av hundmat och det gillade jag. I börjar av grupparbete var lite svårt för det är svårt för mig att dela mina tänkar med andra men i slutet av vecka tyckte jag att det va inte så farlig så nu tjäner jag mycket bättre att jobba med andra när det gäller webutvekling. 
+
+Loggbok - vecka 13
+Den här vecka jobbade vi med design jag och Mollie delade o, hur skulle vi göra desig i figma men mest vi gjorde hi-fi and lo-fi design med figma sen klarade vi desdgin för våra fördpackinganr och vi gjorde klart vår desig i figma den här vecka och hjälpte med wordpress i några sidor. Jag tycker att vi gjorde en bra jobb med vår grupp, det vi gjorde mycket bra att i börjar vi delade upp alla uppgifter och att vi kunda börjar på en gång att jobba , kanse vad jag tycker att det gick inte så bra att vi kunde inte göra alla saker som vi vijle på grund av tid brist men jag trodde ändå att vi klarade jätte bra. 
